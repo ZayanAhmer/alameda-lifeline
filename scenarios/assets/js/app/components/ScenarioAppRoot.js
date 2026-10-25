@@ -167,7 +167,7 @@ export default function ScenarioApp() {
       }),
       __sharedRuntime.h.jsxs("footer", {
         children: [
-          __sharedRuntime.h.jsx("p", { children: "Fictional scenario for education. Not a substitute for hands-on training. Draft: needs review by a clinician or overdose-response trainer before public use." }),
+          __sharedRuntime.h.jsx("p", { children: "Fictional scenario for education. Not a substitute for hands-on training and not perfect or reviewed." }),
           __sharedRuntime.h.jsxs("details", {
             children: [
               __sharedRuntime.h.jsx("summary", { children: "Sources and how they were used" }),
